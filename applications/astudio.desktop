@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=171.0
+Name=Android Studio
+Comment=Launch Android Studio
+Exec=/home/kal/.apps/android-studio/bin/studio.sh
+Icon=/home/kal/.apps/android-studio/bin/studio.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
