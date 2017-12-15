@@ -8,6 +8,10 @@ alias gpu='git pull'
 alias gcm='git commit -m'
 alias gca='git commit --amend'
 
+alias gbr='git branch'
+alias gch='git checkout'
+alias gcb='git checkout -b'
+
 alias grh='git reset --hard'
 alias grhh='git reset --hard HEAD'
 
