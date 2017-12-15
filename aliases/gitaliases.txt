@@ -1,0 +1,19 @@
+# GIT ALIASES -------------------
+alias ga='git add'
+alias gaa='git add *'
+
+alias gp='git push'
+alias gpu='git pull'
+
+alias gcm='git commit -m'
+alias gca='git commit --amend'
+
+alias grh='git reset --hard'
+alias grhh='git reset --hard HEAD'
+
+alias gdh='git diff HEAD'
+alias gsta='git status'
+alias gl='git log'
+
+alias gcreds='git config --global credential.helper "cache --timeout=21600"'
+# -------------------------------
