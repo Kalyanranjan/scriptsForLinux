@@ -1,0 +1,3 @@
+# BASH ALIASES -----------------
+alias sbrc='source ~/.bashrc'
+#-------------------------------
