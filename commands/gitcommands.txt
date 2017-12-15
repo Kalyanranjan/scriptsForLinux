@@ -1,0 +1,5 @@
+# GIT COMMANDS AT STARTUP -------
+git config --global credential.helper "cache --timeout=21600"'
+git config --global user.name "Kalyan R. Parajuli"
+git config --global user.email "kalyanranjanp@gmail.com"
+#---------------------------------
